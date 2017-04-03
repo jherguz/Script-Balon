@@ -1,6 +1,6 @@
 # Script-Balon
 
-Programa de gustos personales en HTML para Modelos de Programación I modulo de Alejandro Daza 020-81.
+Programa de animación realizado mediante scripting para Modelos de Programación I modulo de Alejandro Daza 020-81.
 
 Integrantes:
 
